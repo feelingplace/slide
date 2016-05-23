@@ -1,4 +1,6 @@
-# ITツールに振り回されない！ ケアマネ業務の効率を上げるためのひと工夫。
+## ITツールに振り回されない！
+
+##ケアマネ業務の効率を上げるためのひと工夫。
 
 伊藤 智幸
 
@@ -32,7 +34,7 @@
 
 ---
 
-# ツールはたくさんある
+## ツールはたくさんある
 
 * ケアプランソフト
 * 外部連携用ソフト(電子@連絡帳など)
@@ -50,9 +52,9 @@
 
 --
 
-    * 文字入力に時間がかかる<!-- .element: class="fragment" -->
-    * ソフトの便利な使い方を知らない<!-- .element: class="fragment" -->
-    * 便利なツールを知らない<!-- .element: class="fragment" -->
+## 文字入力に時間がかかる<!-- .element: class="fragment" -->
+## ソフトの便利な使い方を知らない<!-- .element: class="fragment" -->
+## 便利なツールを知らない<!-- .element: class="fragment" -->
 
 ---
 
@@ -60,7 +62,9 @@
 
 --
 
-# ケアマネが向き合いたいのはパソコンではない。利用者だ。
+# ケアマネが向き合いたいのはパソコンではない。
+
+# 利用者だ。<!-- .element: class="fragment" -->
 
 ---
 
@@ -78,7 +82,9 @@
 
 --
 
-UDトーク
+## UDトーク
+
+<div class="appHtmlFrame"><span class="appIcon"><img class="appIconImg" height="100px" src="http://is3.mzstatic.com/image/thumb/Purple30/v4/4f/c9/77/4fc9777e-1cff-8760-69b4-53a50220bf13/source/100x100bb.jpg" style="float:left;margin: 0px 15px 15px 5px;border-radius: 22px;-moz-border-radius: 22px;-webkit-border-radius: 22px;"></span><span class="appName"><strong><a href="https://itunes.apple.com/jp/app/udtoku-komyunikeshon-zhi-yuan/id666188441?mt=8&uo=4&at=11l3Qz" target="itunes_store">UDトーク - コミュニケーション支援・会話の見える化アプリ - Shamrock Records, Inc.</a></strong></span><br><span class="appCategory">カテゴリ: ライフスタイル, ユーティリティ</span><br><span class="badgeL" style="display:inline-block; margin:4px"><a href="https://itunes.apple.com/jp/app/udtoku-komyunikeshon-zhi-yuan/id666188441?mt=8&uo=4&at=11l3Qz" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(http://linkmaker.itunes.apple.com/htmlResources/assets/ja_jp//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;"></a></span></div><br style="clear:both;"> 
 
 --
 
@@ -92,7 +98,7 @@ UDトーク
 
 --
 
-Word, Excel
+## Word, Excel
 
 | キー操作 | 目的 |
 | --- | --- |
@@ -114,6 +120,8 @@ RICOH THETA (360°全天球カメラ)
 
 --
 
+# 便利なツールを知ろう
+
 Google カレンダー
 
 スケジュールの見える化・共有化
@@ -130,7 +138,9 @@ Google カレンダー
 * アセスメント
 * スケジュール・業務管理
 
-煩雑な日常業務を効率化できる。時間は生み出せる!!
+--
+
+## 煩雑な日常業務を効率化できる。時間は生み出せる!!
 
 --
 
